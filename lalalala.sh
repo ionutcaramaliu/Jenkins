@@ -1,1 +1,1 @@
-echo "MErGEasdasdasdas??"
+echo "MErGas??"
